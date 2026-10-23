@@ -9,7 +9,7 @@ import {
   Alert,
   StatusBar,
 } from 'react-native';
-import InfoCard from './components/InfoCard';
+import InfoCard from './src/components/InfoCard';
 
 // 1. Static Dataset di luar komponen utama (Minimal 5 item)
 const DAFTAR_MAHASISWA = [
